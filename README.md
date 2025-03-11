@@ -1,4 +1,4 @@
-
+# B3-application
 
 ## Setup
 Install maven (or use ./mvnw)
